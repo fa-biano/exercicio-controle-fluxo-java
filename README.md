@@ -40,3 +40,7 @@ public class Contador {
 	}
 }
 ```
+
+## Para executar o código:
+- No terminal execute o comando na raiz: `cd bin && java Contador` ou;
+- Abra o VS Code e clique no menu `Run/Run Without Debbugging` ou pressione `Ctrl + F5`;
